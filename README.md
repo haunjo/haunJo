@@ -1,37 +1,26 @@
-haunlab20180397
-===============
+# HC Development Github
 
-welcome to haunlab20180397
---------------------------
-##구/읍/면 내 여가 커뮤니티 활성화를 위한 플랫폼 앱(Partying) 개발 프로젝트
+## 👤Introduction
 
->개인 프로젝트
-> >개인 프로젝트 제안서
-
-
-
-#Lab2 소스 파일들은 scr 폴더에 있습니다
-
-
-##SEMESTER 3-1
-------------------------
-#고급프로그래밍및실습
-  >LANGUAGE : C++
-  >platform : VS code, vim, ubuntu 20.04
-  
-#센서모션로봇공학
-  >LAGNUAGE : C++
-  >platform : ROS, ubuntu 20.04, docker, VS code
-
-#운영체제
-  >LANGUAGE : C
-  >platform : ubuntu 18.04, xv6, docker
-
-#센서네트워크
-  >LANGUAGE : X
-  >platform : X
-
-##교양
-
-#중국어 입문
-#인간관계론
+- **Account**
+    - E-mail : johaun12@naver.com
+    - Instargram ****
+    
+    [](https://www.instagram.com/haundcloud/)
+    
+    - Phone : 010-4429-9871
+    - Notion : https://www.notion.so/HC-7af5c2a616244c8b91c89e27f6e8dc96
+- **School**
+    
+    미추홀외국어고등학교 6기 졸업
+    
+    Soongsil University AI 융합학부 3학년 재학
+    
+- **Main study**
+    Machine learning
+    Computer vision -> object detection, human pose estimation
+    backend
+    
+- **language**
+    C, C++
+    python
