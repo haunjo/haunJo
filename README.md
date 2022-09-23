@@ -5,9 +5,7 @@
 
 - **Account**
     - E-mail : johaun12@naver.com
-    - Instargram ****
-    
-    [](https://www.instagram.com/haundcloud/)
+    - Instargram (https://www.instagram.com/haundcloud/)
     
     - Phone : 010-4429-9871
     - Notion : https://www.notion.so/HC-7af5c2a616244c8b91c89e27f6e8dc96
