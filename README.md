@@ -13,8 +13,8 @@
     
     미추홀외국어고등학교 영어자유전공 6기 졸업
     
-    Soongsil University AI 융합학부 3학년 재학
-    현 VIP 랩실 학부연구생 
+    Soongsil University AI 융합학부 4학년 재학
+    VIP Labs 학부연구생 
     
 - **Main study**
     Machine learning
