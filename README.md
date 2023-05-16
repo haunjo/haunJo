@@ -1,4 +1,5 @@
-# ```HAUND CLOUD```
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HaundCloud&fontSize=90)
+
 
 ## 👤Introduction
 
@@ -27,4 +28,7 @@
     Java
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaunJo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaunJo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaunJo&layout=compact)](https://github.com/haunJo)
