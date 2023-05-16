@@ -1,7 +1,8 @@
-# HC Development Github
+# ```HAUND CLOUD```
 
 ## 👤Introduction
-행복하세요 조하운입니다
+
+조하운입니다
 
 - **Account**
     - E-mail : johaun12@naver.com
@@ -22,6 +23,5 @@
     System programming
     
 - **language**
-    C, C++
     python
     Java
