@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [dumpping-detecting-CCTV(쓰레기 무단투기 검출 시스템))](https://github.com/haunJo/dumping-detecting-CCTV)
 
-- 🌱 I’m currently learning **Spring, Java, Python, FastAPI, Docker, Kubernetis**
+- 🌱 I’m currently learning **Computer Vision, Autonomous Driving Platforms**
 
 - 📝 I regularly write articles on [https://velog.io/@johaun12](https://velog.io/@johaun12)
 
