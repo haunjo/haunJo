@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HaundCloud&fontSize=90)
 
 
-
-<h3 align="center">I'm Collecting My Memories. Enjoy Your Visit!</h3>
-<h3 align="center">안녕하세요, 조하운입니다.</h3>
-
-
 - 🔭 I’m currently working on [dumpping-detecting-CCTV(쓰레기 무단투기 검출 시스템))](https://github.com/haunJo/dumping-detecting-CCTV)
 
 - 🌱 I’m currently learning **Computer Vision, Autonomous Driving Platforms**
